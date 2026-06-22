@@ -1,4 +1,4 @@
-# Escapa Buraco (Ice Cold Beer) — Firmware v9
+# Escapa Buraco  — Firmware v0.9
 
 Guia para **gravar / atualizar o firmware** do jogo **Escapa Buraco** num
 **Arduino Uno + CNC Shield v3**, e também para quem quer **montar o próprio
