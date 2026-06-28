@@ -1,5 +1,5 @@
 /* =====================================================================
-   ICE COLD BEER ("Escapa Buraco")  -  Firmware v9
+   Escapa Buraco v 0.9
    Arduino Uno + CNC Shield v3
    ---------------------------------------------------------------------
    Dois motores de passo controlam as duas pontas de uma barra. O jogador
