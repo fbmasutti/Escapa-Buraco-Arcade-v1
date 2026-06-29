@@ -1,5 +1,5 @@
 /* =====================================================================
-   MUSICAS / SINAIS SONOROS  -  Ice Cold Beer
+   MUSICAS / SINAIS SONOROS  -  Escapa Buraco Arcade
    ---------------------------------------------------------------------
    Toca pequenas melodias no buzzer. Baseado no projeto arduino-songs de
    Robson Couto (2019): https://github.com/robsoncouto/arduino-songs
